@@ -1,4 +1,4 @@
-<com.skydoves.cameleonlayout.CameleonLayout
+<com.battleent.cameleonlayout.CameleonLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/cameleonLayout3"
@@ -48,4 +48,4 @@
                 android:textSize="15sp" />
         </LinearLayout>
     </LinearLayout>
-</com.skydoves.cameleonlayout.CameleonLayout>
+</com.battleent.cameleonlayout.CameleonLayout>

@@ -1,10 +1,11 @@
-package com.skydoves.cameleonlayoutdemo
+
+package com.battleent.cameleonlayoutdemo
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
-import com.skydoves.cameleonlayout.FilledStatus
-import com.skydoves.cameleonlayout.OnLayerClickListener
+import com.battleent.cameleonlayout.FilledStatus
+import com.battleent.cameleonlayout.OnLayerClickListener
 import kotlinx.android.synthetic.main.item_episode.*
 import kotlinx.android.synthetic.main.item_episode1.*
 import kotlinx.android.synthetic.main.item_episode_glance.*
