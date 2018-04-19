@@ -1,6 +1,5 @@
 # CameleonLayout
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://travis-ci.org/skydoves/CameleonLayout.svg?branch=master)](https://travis-ci.org/skydoves/CameleonLayout)
+![license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 <br>
 A library that let you implement double-layer-layout changing with slide animation by [Battle Entertainment](https://www.battleent.com/)
 
