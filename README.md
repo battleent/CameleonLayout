@@ -11,7 +11,7 @@ A library that let you implement double-layer-layout changing with slide animati
 #### build.gradle
 ```java
 dependencies {
-  implementation "com.github.skydoves:cameleonlayout:1.0.0"
+  implementation "com.github.battleent:cameleonlayout:0.2.0"
 }
 ```
 
